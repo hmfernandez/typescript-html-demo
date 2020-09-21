@@ -43,6 +43,6 @@ Fork it!
 MIT
 
 ## Keywords
-- [TypeScript](https://www.npmjs.com/search?q=keywords:TypeScript)
+- TypeScript
 
 - HTML
